@@ -1,0 +1,21 @@
+/* .singleTile{
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+} */
+#div2{
+  display:flex;
+  flex-wrap: wrap;
+  height: 400px;
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+}
+ .multiTileRed{
+  height: 50px;
+  width: 100px;
+}
+.multiTilePurple{
+  height: 50px;
+  width: 100px;
+}
